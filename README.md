@@ -1,1 +1,1 @@
-Projeto de um sistem abancario utilizando classes abstratas com python 
+Projeto de um sistema bancário utilizando classes abstratas com python.
